@@ -27,3 +27,4 @@ Using BeautifulSoup and Splinter to scrape full-resolution images of Mars’s he
 ![Toggle Photo](Resources/TogglePhoto.png)
 
 
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
